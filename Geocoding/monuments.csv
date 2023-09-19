@@ -1,0 +1,37 @@
+,Name,Location,Visitors,Address,Lon,Lat
+0,St. Peter's Basilica,Vatican City,11000000,"Basilica di San Pietro, Via Fontenelle, Civitas Vaticana - Città del Vaticano, 00120, Civitas Vaticana - Città del Vaticano",12.453712068088656,41.9021569
+1,Palace of Versailles,Versailles,8100000,"Château de Versailles, Cour de la Bouche du Roi, Notre-Dame, Versailles, Yvelines, Île-de-France, France métropolitaine, 78000, France",2.120285270992599,48.804425249999994
+2,Lincoln Memorial,"Washington, D.C.",7804683,"Lincoln Memorial, Lincoln Steps, Washington, District of Columbia, 20418, United States",-77.05017197314066,38.889212150000006
+3,Parthenon,Athens,7200000,"Παρθενών, Περίπατος Ακρόπολης (Νότια κλιτύς), Αστεροσκοπείο, Αναφιώτικα, Άνω Πετράλωνα, 3η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 58, Ελλάς",23.72661765,37.97150335
+4,Eiffel Tower,Paris,7000000,"Tour Eiffel, 5, Avenue Anatole France, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France",2.2945006358633115,48.8582599
+5,Taj Mahal,Agra,6532366,"Taj Mahal, Taj East Gate Road, Taj Ganj, Agra, Agra District, Uttar Pradesh, 282004, India",78.04210126365584,27.1750075
+6,Cologne Cathedral,Cologne,6000000,"Kölner Dom, 4, Domkloster, Andreasviertel, Altstadt-Nord, Innenstadt, Köln, Nordrhein-Westfalen, 50667, Deutschland",6.958137997831819,50.941303500000004
+7,Peterhof Palace,Saint Petersburg,5245900,"Большой дворец, Дворцовая площадь, Петергоф, Санкт-Петербург, Северо-Западный федеральный округ, 198516, Россия",29.9092348004647,59.8845122
+8,Vietnam Veterans Memorial,"Washington, D.C.",4719148,"Vietnam Veterans Memorial, Henry Bacon Drive Northwest, Washington, District of Columbia, 20418, United States",-77.0480865560159,38.8909801
+9,World War II Memorial,"Washington, D.C.",4652865,"World War II Memorial, 1964, Independence Avenue Southwest, Washington, District of Columbia, 20227, United States",-77.04030796874613,38.88939505
+10,Independence National Historical Park,Philadelphia,4576436,"Independence National Historical Park, Society Hill, Center City, Philadelphia, Pennsylvania, 19106, United States",-75.1468089,39.9487443
+11,Sagrada Familia,Barcelona,4500000,"Basílica de la Sagrada Família, 401, Carrer de Mallorca, la Sagrada Família, Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España",2.174428284189003,41.4035046
+12,Statue of Liberty National Monument,New York City,4335431,"Statue of Liberty National Monument, Manhattan, New York County, City of New York, Hudson County, New York, United States",-74.0453624536292,40.69011015
+13,Teotihuacan,Teotihuacán,4070000,"Teotihuacán, Estado de México, México",-98.88312638220704,19.69335705
+14,Mysore Palace,Mysore,3861162,"Mysore Palace, Sayyaji Rao Road, Vani Vilas, Mysuru, Mysuru taluk, Mysuru District, Karnataka, 570001, India",76.65538462991165,12.30521965
+15,Pompeii,Naples,3646585,"Pompei Antica, Pompei, Napoli, Campania, 80045, Italia",14.4905636,40.7517375
+16,Wilanow Palace,Warsaw,3115797,"Pałac w Wilanowie, 10/16, Stanisława Kostki Potockiego, Wilanów Królewski, Wilanów, Warszawa, województwo mazowieckie, 02-958, Polska",21.090469034398023,52.1650986
+17,Schonbrunn Palace,Vienna,3050000,"Schloss Schönbrunn, 47, Schönbrunner Schlossstraße, KG Schönbrunn, Hietzing, Wien, 1130, Österreich",16.31156843061947,48.18498935
+18,Kazan Kremlin,Kazan,2893300,"Казанский кремль, Кремлёвская улица, Мокрая слобода, Вахитовский район, городской округ Казань, Татарстан, Приволжский федеральный округ, 420014, Россия",49.106183630942546,55.799032600000004
+19,Tower of London,London,2858336,"Tower of London, Tower Hill, Tower Liberty, Whitechapel, London Borough of Tower Hamlets, London, Greater London, England, EC3N 4AB, United Kingdom",-0.07622237194643053,51.5081201
+20,Alhambra,Granada,2760000,"Alhambra, Calle Real Alta, Realejo Alto, San Matías - Realejo, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18009, España",-3.5881102773279347,37.176059949999996
+21,Chichen Itza,Yucatán,2740000,"Chichen Itzá, Grupo de las Mil Columnas, San Felipe Nuevo, Tinum, Yucatán, 97751, México",-88.5687196355205,20.68285195
+22,Topkapi Palace,Istanbul,2720119,"Topkapi Sarayı, Harem Ağaları Taşlığı, Cankurtaran Mahallesi, İstanbul, Fatih, İstanbul, Marmara Bölgesi, 34122, Türkiye",28.9832034,41.011344
+23,Chapultepec Castle,Mexico City,2661615,"Museo Nacional de Historia Castillo de Chapultepec, Peatonal del Cerro, 1a. Sección del Bosque de Chapultepec, Miguel Hidalgo, Santa Fe, Ciudad de México, 11580, México",-99.18202656469987,19.42047795
+24,Ciudad de las Artes y las Ciencias,Valencia,2637567,"Ciutat de les Arts i les Ciències, 7, Avinguda del Professor López Piñero (Historiador de la Medicina), Ciutat de les Arts i de les Ciències, Quatre Carreres, València, Comarca de València, València / Valencia, Comunitat Valenciana, 46013, España",-0.35255196989089266,39.45575625
+25,Statue of Unity,Kevadiya,"2,600,000+","Statue of Unity, Garudeshwar Taluka, Narmada District, Gujarat, India",73.71916402600398,21.837977000000002
+26,Moscow Kremlin,Moscow,2478622,"Московский Кремль, Красная площадь, 15, Китай-город, Тверской район, Москва, Центральный федеральный округ, 109012, Россия",37.61816589685643,55.751622499999996
+27,Tulum,Quintana Roo,2190000,"Zona Arqueológica de Tulum, Sendero de salida, Tulum, Quintana Roo, 77760, México",-87.42953531439221,20.2152358
+28,Edinburgh Castle,Edinburgh,2111578,"Edinburgh Castle, Castlehill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2NG, United Kingdom",-3.2004174629518065,55.948686699999996
+29,Alcazar of Seville,Seville,1875744,"Real Alcázar de Sevilla, Patio de Banderas, Santa Cruz, Casco Antiguo, Sevilla, Andalucía, 41004, España",-5.990183515548227,37.383210500000004
+30,Wawel Castle,Kraków,1587999,"Zamek Królewski na Wawelu, Dziedziniec Arkadowy, Stare Miasto, Kraków, województwo małopolskie, 31-003, Polska",19.936022259529473,50.0544051
+31,Arc de Triomphe,Paris,1583260,"Arc de Triomphe, Tunnel de l'Étoile, Quartier du Faubourg-du-Roule, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France",2.295037226037673,48.8737791
+32,Royal Palace of Madrid,Madrid,1552481,"Palacio Real de Madrid, Plaza de la Armería, Barrio de la Latina, Palacio, Centro, Madrid, Comunidad de Madrid, 28013, España",-3.7135836,40.4173122
+33,Neuschwanstein Castle,Schwangau,1500000,"Schloss Neuschwanstein, Neuschwansteinstraße, Hohenschwangau, Schwangau, Landkreis Ostallgäu, Bayern, 87645, Deutschland",10.749695890887043,47.5575522
+34,Machu Picchu,Cusco,1411276,"Ciudadela de Machu Picchu, Camino a Puente Inka, San Miguel, Intihuatana, Machupicchu, Urubamba, Cusco, 08680, Perú",-72.54508510173372,-13.164421950000001
+35,Castillo San Felipe del Morro ,San Juan,1400000,"Fuerte San Felipe del Morro, Calle del Morro, La Perla, Viejo San Juan, San Juan, Puerto Rico, 00901, United States",-66.12422758764447,18.47084265
